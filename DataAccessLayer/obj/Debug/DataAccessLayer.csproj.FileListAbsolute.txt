@@ -1,0 +1,9 @@
+C:\Users\VK\Desktop\faks\3.semestar\.NET\IMDB\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\VK\Desktop\faks\3.semestar\.NET\IMDB\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\VK\Desktop\faks\3.semestar\.NET\IMDB\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VK\Desktop\faks\3.semestar\.NET\IMDB\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\VK\Desktop\faks\3.semestar\.NET\IMDB\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\VK\Desktop\faks\3.semestar\.NET\IMDB\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\VK\Desktop\faks\3.semestar\.NET\IMDB\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\VK\Desktop\faks\3.semestar\.NET\IMDB\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\VK\Desktop\faks\3.semestar\.NET\IMDB\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
